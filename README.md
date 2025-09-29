@@ -2,6 +2,6 @@
 
 
 # Github Action Status Badge
-[![CI](https://github.com/MylesRM/COMP3104/actions/workflows/ci.yml/badge.svg)](https://github.com/MylesRM/COMP3104/actions/workflows/ci.yml)
+[![Build Status](https://app.travis-ci.com/MylesRM/COMP3104.svg?token=vWJaAqQeRGC2ZsjT4X1H&branch=main)](https://app.travis-ci.com/MylesRM/COMP3104)
 
 
