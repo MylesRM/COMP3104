@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/MylesRM/COMP3104/issues"
   },
-  "homepage": "https://github.com/MylesRM/COMP3104#readme",
+  "homepage": "https://MylesRM.github.com/COMP3104",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
